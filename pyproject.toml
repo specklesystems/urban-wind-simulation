@@ -8,8 +8,8 @@ packages = [{include = "src/speckle_automate_py"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-specklepy = "2.17.17"
-archaea-simulation = "1.2.2" 
+specklepy = "2.21.2"
+archaea-simulation = "1.3.0"
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.3.0"
