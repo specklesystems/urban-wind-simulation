@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Example function for Speckle Automate using specklepy"
 authors = ["Gergő Jedlicska <gergo@jedlicska.com>"]
 readme = "README.md"
-#packages = [{include = "src/speckle_automate_py"}]
+packages = [{include = "src/speckle_automate_py"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
